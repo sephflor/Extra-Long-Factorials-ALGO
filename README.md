@@ -1,1 +1,1 @@
-# Extra-Long-Factorials-ALGO
+# Extra-Long-Factorials-ALGO.The first solution using BigInteger is recommended as it's simpler, more readable, and handles the large number operations automatically. The second solution demonstrates how you might implement it manually if BigInteger wasn't available.
